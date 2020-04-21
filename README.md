@@ -1,6 +1,6 @@
 # spring-boot2
 
-本文是基于 Spring Boot 2.x 版本进行的系列教程，欢迎关注我的公众号 **`battcn`**
+本文是基于 Spring Boot 2.x 版本进行的系列教程，欢迎关注原著者的公众号 **`battcn`**
 
 # 公众号
 
